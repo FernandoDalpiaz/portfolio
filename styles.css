@@ -114,6 +114,7 @@ a:hover {
     flex-direction: column;
     gap: 20px;
     align-items: center;
+    height: 80vh;
 }
 
 .projects-image{
@@ -143,6 +144,12 @@ a:hover {
     font-weight: bold;
     font-style: oblique;
     color: black;
+}
+
+.projects-warning{
+    color: lightcoral;
+    font-size: 1.2rem;
+    width: 50%;
 }
 
 /* Contact Me Section */
