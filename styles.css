@@ -139,6 +139,12 @@ a:hover {
     width: 50%; 
 }
 
+.github-redirect{
+    font-weight: bold;
+    font-style: oblique;
+    color: black;
+}
+
 /* Contact Me Section */
 #contact-section{
     background-color: #EBE6E6;
